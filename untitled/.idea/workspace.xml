@@ -34,8 +34,8 @@
       <file leaf-file-name="Number Guess.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Number Guess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="540">
+              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -117,6 +117,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\untitled" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.Number Guess">
     <configuration default="false" name="py1" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -495,8 +500,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Number Guess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="540">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
           <folding />
         </state>
       </provider>

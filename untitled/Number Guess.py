@@ -13,7 +13,7 @@ while guess_num < 100:
     guess_num = guess_num + 1
 
     if user_num == num:
-        print ("You crafty son of a bitch")
+        print ("Well look at Mr. IQ over here")
         break
     elif user_num > num:
         print ("Guess lower")
