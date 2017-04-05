@@ -10,7 +10,7 @@ while guess_num < 100:
     print ("What's the number?")
     user_num = int(input())
 
-    guess_num = guess_num + 1
+    guess_num += 1
 
     if user_num == num:
         print ("Well look at Mr. IQ over here")
